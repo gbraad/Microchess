@@ -8,7 +8,7 @@ To try Microchess, download the program by right clicking the link below and cho
 
 [Microchess for Soft6502](microchess.h65)
 
-  * Unzip and run the Soft6502 simulator.
+  * Unzip and run the [Soft6502 simulator](http://www.crbond.com/download/soft65.zip).
   * Load the code file ( File | Load | microchess_1_soft6502.h65)
   * Select `0x0000` as the starting address or key in **AD** `0000`
   * Press **GO** to run the program
